@@ -1,19 +1,9 @@
 # Act8_Diseno_Flutter
 
-A new Flutter project created with FlutLab - https://flutlab.io
+- Pantalla
 
-## Getting Started
+![Yamamoto](https://github.com/user-attachments/assets/9f84b084-7e79-4580-9588-d95020573ed2)
 
-A few resources to get you started if this is your first Flutter project:
+- Pantalla
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
-
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+![Yamamoto2](https://github.com/user-attachments/assets/61656886-fc18-4aa5-8a70-06b635a9c261)
