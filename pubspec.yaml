@@ -14,13 +14,16 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^4.0.0
+  simple_animations: ^5.0.0
+
 
 flutter:
   uses-material-design: true
-  # assets:
-  #  - images/a_dot_burr.jpeg
-  #  - images/a_dot_ham.jpeg
+  assets:
+   - assets/images/Tybw_Yamamoto.gif
+   - assets/images/yamamoto_bleach.gif
+   - assets/images/yamamoto_shigekuni.gif
+   - assets/images/yamamoto.gif
   # fonts:
   #   - family: Schyler
   #     fonts:
